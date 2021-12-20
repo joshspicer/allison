@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
+title: Prior Research
+description: Look how cool I am :')
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
